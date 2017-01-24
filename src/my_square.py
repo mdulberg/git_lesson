@@ -1,6 +1,6 @@
-def my_square(x):
+def my_square(y):
 	""" takes number and returns square more doc
 	"""
-	return(x ** 2)
+	return(y ** 2)
 
-print(my_square(4))
+print(my_square(2))
