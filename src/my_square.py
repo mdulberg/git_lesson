@@ -3,6 +3,8 @@ def my_square(z):
 	"""
 	return(z * z)
 def my_square2(x):
+	""" adding info
+	"""
 	return(x ** 2)
 
 print(my_square(12))
